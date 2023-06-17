@@ -39,4 +39,4 @@ registerRoute(
   })
 );
 
-// offlineFallback();
+offlineFallback();
