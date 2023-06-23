@@ -23,4 +23,4 @@ QUICKSTART: run `npm install && npm start`, then wait for the console to respond
 
 ## Repo and Deployed Site
 [GitHub Repo](https://github.com/jbowdle/text-editor-pwa)
-~~Deployed Site~~ - site has not yet been deployed
+[Deployed Site](https://fast-chamber-75648-d60ee042a549.herokuapp.com/)
